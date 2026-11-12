@@ -1,0 +1,4 @@
+[masking]
+# Local-only seed. Keep this file out of version control.
+# Generate one with: python scripts/setup_local.py
+seed = "replace-with-a-long-random-local-seed"

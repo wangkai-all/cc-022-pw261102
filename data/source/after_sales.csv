@@ -1,0 +1,10 @@
+tenant_id,case_id,order_id,customer_id,contact_email,reason,created_at,resolved_at
+T-ACME,A10001,O10002,C1001,zhang.wei@acme.example,尺码不合适,2024-03-20,2024-03-25
+T-ACME,A10002,O10004,C1002,li.na@acme.example,发票问题,2024-02-25,2024-02-27
+T-ACME,A10003,O10007,C1004,,商品破损,2024-04-13,2024-04-20
+T-ACME,A10004,O10009,C1006,chen.jing@acme.example,重复下单,2024-05-14,
+T-GLOBEX,A10005,O20001,C1001,zhang.wei@globex.example,物流延迟,2024-02-12,2024-02-18
+T-GLOBEX,A10006,O20003,C2002,liu.yang@globex.example,退款申请,2024-03-08,2024-03-12
+T-GLOBEX,A10007,O20005,C2004,zhao.min@globex.example,尺寸不符,2024-06-28,2024-07-02
+T-INITECH,A10008,O30001,C3001,zhou.jie@initech.example,发票抬头,2024-07-12,2024-07-15
+T-INITECH,A10009,O30002,C3001,,咨询,2024-08-03,

@@ -1,0 +1,13 @@
+tenant_id,customer_id,name,phone,email,city,created_at
+T-ACME,C1001,张伟,13800001001,zhang.wei@acme.example,北京,2024-01-05
+T-ACME,C1002,李娜,13900001002,li.na@acme.example,上海,2024-02-11
+T-ACME,C1003,张伟,13700001003,zhangwei3@acme.example,北京,2024-03-02
+T-ACME,C1004,王强,,,深圳,2024-03-18
+T-ACME,C1005,,13600001005,,广州,2024-04-01
+T-ACME,C1006,陈静,13800001001,chen.jing@acme.example,成都,2024-04-22
+T-GLOBEX,C1001,张伟,13800001001,zhang.wei@globex.example,香港,2024-01-09
+T-GLOBEX,C2002,刘洋,13800001001,liu.yang@globex.example,新加坡,2024-02-14
+T-GLOBEX,C2003,张伟,13500002003,zhangwei3@globex.example,吉隆坡,2024-05-06
+T-GLOBEX,C2004,赵敏,,zhao.min@globex.example,东京,2024-06-15
+T-INITECH,C3001,周杰,13100003001,zhou.jie@initech.example,大阪,2024-07-01
+T-INITECH,C3002,林晓,13100003002,,首尔,2024-07-19

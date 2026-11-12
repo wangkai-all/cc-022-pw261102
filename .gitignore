@@ -7,3 +7,10 @@ node_modules/
 __pycache__/
 .claude/
 .cc-workbench/
+config/masking.local.toml
+data/exports/
+data/failures/
+frontend/dist/
+frontend/.npm-cache/
+.pytest_cache/
+*.pyc
